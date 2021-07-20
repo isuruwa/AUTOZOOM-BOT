@@ -40,3 +40,7 @@
 * Fill Data according To Sample Given In mylist.csv 
 
 ```
+
+# Screenshots : <img src="https://img.icons8.com/color/48/000000/zoom.png"/>
+
+![Capture](https://user-images.githubusercontent.com/72663288/126372561-95dbf9bf-28a2-49fe-93b3-e65a81d1db4a.PNG)

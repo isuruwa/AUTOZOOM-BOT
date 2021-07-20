@@ -24,7 +24,7 @@
 
 ## Installtion : <img src="https://img.icons8.com/color/48/000000/zoom.png"/>
 
-* Download <a href="https://github.com/isuruwa">  The Zip File. </a>
+* Download <a href="https://github.com/isuruwa/ZOOM-BOT/archive/refs/heads/main.zip">  The Zip File. </a>
 * Install Modules In requirements.txt File . | pip install -r requirements.txt
 * Edit Your Data (links/dates/times) in mylist.csv File.
 * Run zoombot.py

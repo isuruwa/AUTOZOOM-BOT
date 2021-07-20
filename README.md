@@ -35,7 +35,7 @@
 
 
 ``` 
-* If Meeting Is Today , Doesn't Need To Fill Date in mylist.csv
+* If Meeting Is On Today , Doesn't Need To Fill Date in mylist.csv
 * Can Use Match Words For Dates (ex - Monday , Tuesday ..)
 * Fill Data according To Sample Given In mylist.csv 
 

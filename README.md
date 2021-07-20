@@ -33,6 +33,10 @@
 
 <br>
 
+## Errors :
+
+## Zoom.exe Not Found  :  Increase Your Meeting Time .
+
 
 ``` 
 * If Meeting Is On Today , Doesn't Need To Fill Date in mylist.csv

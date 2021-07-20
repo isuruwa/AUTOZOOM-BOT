@@ -29,6 +29,8 @@
 * Edit Your Data (links/dates/times) in mylist.csv File.
 * Run zoombot.py
 
+## EXE VERSION -
+
 <br>
 
 

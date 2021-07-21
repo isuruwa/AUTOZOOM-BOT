@@ -29,7 +29,7 @@
 * Edit Your Data (links/dates/times) in mylist.csv File.
 * Run zoombot.py
 
-## EXE VERSION - <a href="https://github.com/isuruwa/ZOOM-BOT/archive/refs/tags/ZOOM-BOT.zip"> Download </a>
+## EXE VERSION - <a href="https://github.com/isuruwa/AUTOZOOM-BOT/archive/refs/tags/AUTOZOOM-BOT.zip"> Download </a>
 
 <br>
 

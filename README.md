@@ -49,3 +49,8 @@
 
 ![ZM](https://user-images.githubusercontent.com/72663288/126432365-f0212020-5dcb-4070-9a50-17eeefe54a8d.PNG)
 
+---
+### ❤️Supporters❤️ 
+[![Stars @isuruwa/AUTOZOOM-BOT](https://reporoster.com/stars/dark/isuruwa/AUTOZOOM-BOT)](https://github.com/isuruwa/AUTOZOOM-BOT/stargazers)
+[![Forks @isuruwa/AUTOZOOM-BOT](https://reporoster.com/forks/dark/isuruwa/AUTOZOOM-BOT)](https://github.com/isuruwa/AUTOZOOM-BOT/network/members)
+---
